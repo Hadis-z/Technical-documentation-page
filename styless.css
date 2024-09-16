@@ -1,4 +1,4 @@
-html, body {
+html,body {
   margin: 0;
   padding: 0;
 }
@@ -6,7 +6,7 @@ html, body {
 body {
   font-family: Arial, sans-serif;
   display: flex;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
 #navbar {
@@ -115,7 +115,7 @@ ul {
     padding: 10px;
   }
 
-   #main-doc {
+  #main-doc {
     margin-left: 0;
     width: 100%;
   }
